@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterrelete",
+        "uuid": 15061730,
+        "checksum": "04pezu"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
